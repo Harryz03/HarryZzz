@@ -1,0 +1,182 @@
+[
+  {
+    "id": "0001",
+    "text": "A magnitude 7.1 earthquake struck Tingri County, Tibet in January 2025, killing at least 126 people.",
+    "image_path": "images/image_0001.jpg",
+    "label": 1
+  },
+  {
+    "id": "0002",
+    "text": "A 7.1 earthquake in Tibet killed over 5,000 people and destroyed all hospitals in the region.",
+    "image_path": "images/image_0002.jpg",
+    "label": 0
+  },
+  {
+    "id": "0003",
+    "text": "Wildfires broke out in Southern California in January 2025, forcing thousands to evacuate.",
+    "image_path": "images/image_0003.jpg",
+    "label": 1
+  },
+  {
+    "id": "0004",
+    "text": "Southern California wildfires burned down all Los Angeles schools and killed over 2,000.",
+    "image_path": "images/image_0004.jpg",
+    "label": 0
+  },
+  {
+    "id": "0005",
+    "text": "A light aircraft crashed off Rottnest Island, Western Australia in early 2025.",
+    "image_path": "images/image_0005.jpg",
+    "label": 1
+  },
+  {
+    "id": "0006",
+    "text": "A commercial airliner crashed off Rottnest Island, killing over 300 people.",
+    "image_path": "images/image_0006.jpg",
+    "label": 0
+  },
+  {
+    "id": "0007",
+    "text": "An explosion occurred at an ammunition depot in Cuba, injuring several military personnel.",
+    "image_path": "images/image_0007.jpg",
+    "label": 1
+  },
+  {
+    "id": "0008",
+    "text": "A nuclear bomb exploded in Cuba, leveling the capital city Havana.",
+    "image_path": "images/image_0008.jpg",
+    "label": 0
+  },
+  {
+    "id": "0009",
+    "text": "An Air India Boeing 787-8 crashed shortly after takeoff from Ahmedabad on June 12, 2025.",
+    "image_path": "images/image_0009.jpg",
+    "label": 1
+  },
+  {
+    "id": "0010",
+    "text": "An Air India flight exploded mid-air, leaving no survivors from 420 passengers.",
+    "image_path": "images/image_0010.jpg",
+    "label": 0
+  },
+  {
+    "id": "0011",
+    "text": "The U.S. began withdrawing staff from its embassy in Baghdad, Iraq in June 2025.",
+    "image_path": "images/image_0011.jpg",
+    "label": 1
+  },
+  {
+    "id": "0012",
+    "text": "The U.S. closed all embassies worldwide fearing a global terror attack.",
+    "image_path": "images/image_0012.jpg",
+    "label": 0
+  },
+  {
+    "id": "0013",
+    "text": "Over 120 Palestinians were reported killed in Israeli airstrikes on Gaza in June 2025.",
+    "image_path": "images/image_0013.jpg",
+    "label": 1
+  },
+  {
+    "id": "0014",
+    "text": "Israel declared full military control over Gaza and demolished all buildings.",
+    "image_path": "images/image_0014.jpg",
+    "label": 0
+  },
+  {
+    "id": "0015",
+    "text": "An 11-year-old boy named Adam al-Najjar was medically evacuated from Gaza to Italy.",
+    "image_path": "images/image_0015.jpg",
+    "label": 1
+  },
+  {
+    "id": "0016",
+    "text": "An 11-year-old Gaza child was secretly smuggled to the UK as a political bargaining tool.",
+    "image_path": "images/image_0016.jpg",
+    "label": 0
+  },
+  {
+    "id": "0017",
+    "text": "Violent clashes were reported in Nablus, West Bank, between Israeli forces and local residents.",
+    "image_path": "images/image_0017.jpg",
+    "label": 1
+  },
+  {
+    "id": "0018",
+    "text": "Israeli forces took full control of Nablus, imposing military rule indefinitely.",
+    "image_path": "images/image_0018.jpg",
+    "label": 0
+  },
+  {
+    "id": "0019",
+    "text": "The California Governor requested limits on National Guard deployment during protests in Los Angeles.",
+    "image_path": "images/image_0019.jpg",
+    "label": 1
+  },
+  {
+    "id": "0020",
+    "text": "The National Guard opened fire on peaceful protesters in Los Angeles, killing dozens.",
+    "image_path": "images/image_0020.jpg",
+    "label": 0
+  },
+  {
+    "id": "0021",
+    "text": "Families of detainees protested outside an ICE facility in Los Angeles after mass arrests.",
+    "image_path": "images/image_0021.jpg",
+    "label": 1
+  },
+  {
+    "id": "0022",
+    "text": "ICE facilities in LA were exposed for detaining children in underground cells.",
+    "image_path": "images/image_0022.jpg",
+    "label": 0
+  },
+  {
+    "id": "0023",
+    "text": "Democratic organizer David Hogg was removed from the DNC climate rally after a dispute.",
+    "image_path": "images/image_0023.jpg",
+    "label": 1
+  },
+  {
+    "id": "0024",
+    "text": "David Hogg confessed to planning a staged protest for DNC media attention.",
+    "image_path": "images/image_0024.jpg",
+    "label": 0
+  },
+  {
+    "id": "0025",
+    "text": "The Republican Party launched an investigation into NGOs supporting undocumented immigrants.",
+    "image_path": "images/image_0025.jpg",
+    "label": 1
+  },
+  {
+    "id": "0026",
+    "text": "Republicans passed a law banning all NGOs from operating in the U.S.",
+    "image_path": "images/image_0026.jpg",
+    "label": 0
+  },
+  {
+    "id": "0027",
+    "text": "China and the U.S. reached a tentative trade agreement amid ongoing tariff disputes.",
+    "image_path": "images/image_0027.jpg",
+    "label": 1
+  },
+  {
+    "id": "0028",
+    "text": "China imposed total trade bans on all U.S. goods after failed negotiations.",
+    "image_path": "images/image_0028.jpg",
+    "label": 0
+  },
+  {
+    "id": "0029",
+    "text": "Brazilian ex-president Jair Bolsonaro was accused of discussing a potential military coup.",
+    "image_path": "images/image_0029.jpg",
+    "label": 1
+  },
+  {
+    "id": "0030",
+    "text": "Bolsonaro attempted a coup using foreign mercenaries to storm the Brazilian Senate.",
+    "image_path": "images/image_0030.jpg",
+    "label": 0
+  }
+]
